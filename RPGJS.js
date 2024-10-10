@@ -1,3 +1,6 @@
+function voltar(params) {
+    window.location.replace("index.html")
+}
 function pagina1(params) {
     window.location.replace("Site RPG-Página 1.html");
 }
