@@ -1,3 +1,6 @@
+function voltar(params) {
+    window.location.replace("index.html")
+}
 function home(params) {
     window.scrollTo(0,50);
 }
