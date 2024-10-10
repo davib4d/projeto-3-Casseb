@@ -1,0 +1,91 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/019/170/273/large/ford-nguyen-city-street.jpg?1562315890); 
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+}
+
+
+.conteudo {
+    margin-top: 8%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+}
+
+
+h1 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+.lista-equipe {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+.lista-equipe li {
+    margin-bottom: 20px;
+}
+
+
+.lista-equipe button {
+    
+    color: white;
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+
+.lista-equipe button:hover {
+    background-color: rgba(184, 23, 23, 0.815);
+}
+
+
+.lista-equipe img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 15px;
+    border: 2px solid white;
+}
+
+
+.informacoes h2 {
+    margin: 0;
+    font-size: 30px;
+}
+
+.informacoes p {
+    margin: 5px 0 0 0;
+    font-size: 15px;
+}
+
+.text-space{
+    display: flex;
+
+    width: 500px;
+}
+
+.text-space>ul{
+    text-align: center;
+}
+
+.text-space>ul>li{
+   margin:10px;
+}
+
