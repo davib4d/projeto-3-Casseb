@@ -1,0 +1,34 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(https://minecraftfurniture.net/wp-content/uploads/2020/05/Ping-Pong.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+ol{
+    color: white;
+}
+ul{
+    color: white;
+}
+table{
+    color: white;
+    border-color: white;
+    border-inline-color: white;
+}
+button{
+    color: white;
+    background-color: rgb(20, 121, 25);
+}
